@@ -1,2 +1,18 @@
-package practice.task4;public class Task4 {
+package practice.task4;
+
+import java.util.Scanner;
+
+//программа находит среднее арифметическое числа
+
+public class Task4 {
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter 1st number: ");
+        double numb1 = input.nextDouble();
+        System.out.println("Enter 2nd number: ");
+        double numb2 = input.nextDouble();
+        double avg = (numb1 + numb2) / 2;
+        System.out.println("Average number: " + avg);
+    }
 }
