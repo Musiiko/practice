@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="665f0617-d794-4bc7-9096-cfdad5d6039e" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/practice/task13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/task13/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/task13/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/task14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/task14/service/WordRateAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/task14/util/IOUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +39,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Sergey/NewJavaProject/practice"
+    "last_opened_file_path": "C:/Users/Sergey/NewJavaProject/javaTasks"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.practice.task14.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.task13.Main" />
       <module name="practice" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.task12.Task12" />
+    <configuration name="practice.task14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.task14.Main" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.task12.*" />
+          <option name="PATTERN" value="practice.task14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practice.task14.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.practice.task2.Main" />
         <item itemvalue="Application.NumberSequence" />
         <item itemvalue="Application.practice.task3.Main" />
-        <item itemvalue="Application.Task12" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661689480938</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1661946441305</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661946441305</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,11 @@
           <url>file://$PROJECT_DIR$/src/practice/task11/Number.java</url>
           <line>4</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/task14/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
